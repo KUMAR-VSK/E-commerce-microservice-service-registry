@@ -1,12 +1,4 @@
-# Service Registry Project - Outlook and Workflow
 
-## Project Overview
-
-This Service Registry project is a **Spring Boot Eureka Server** that serves as the central nervous system for a microservices architecture. It provides service discovery, registration, and health monitoring capabilities.
-
-## Project Architecture
-
-### Current State
 ```
 ┌─────────────────────────────────────┐
 │        Service Registry             │
